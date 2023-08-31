@@ -39,7 +39,11 @@ Some EDA was initially performed to ensure there was no missing values and that 
    6.1 Games and entertainment apps had the most apps with a high ranking. This suggests the app store is oversaturated with apps of this genere.
 
 ## Importance
-These take aways can be used for app developers and Business development for direction on how to position apps that they would like to launch. These findings are broad enough to undergo further analysis for a more targeted audience, or take a calculated risk with out limiting options to an extremely niche audience. 
+These take aways can be used for app developers and business development for direction on how to position apps that they would like to launch. These findings are broad enough to undergo further analysis for a more targeted audience, or take a calculated risk with out limiting options to an extremely niche audience. 
 
 ### Disclaimer
 This Project will further be anllysed with statistical test such as a/b testing to determine if the difference in ratings wasw statistically significant, and will be updated when completed.
+
+#### Additonal Personal Projects
+Please feel free to take a look at a Tableau dashboard I created comparing school funding and expenditure data to school test scores by state.
+https://public.tableau.com/app/profile/zach1542/viz/SchoolFundingExpenditures/Dashboard1?publish=yes
